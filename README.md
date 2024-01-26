@@ -1,4 +1,17 @@
 # Personalized Migraine Risk Assessment and Attack Prediction
+## Key Technologies and Tools
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.2.4-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.19.5-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3.4-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-blue)
+![LSTM](https://img.shields.io/badge/LSTM-Networks-blue)
+
+- **Programming Language**: Python
+- **Major Libraries**: Pandas, NumPy, Matplotlib, Seaborn, cvxEDA
+- **Machine Learning Algorithms**: LSTM Networks, RNN
+- **Keywords**: Time-series Analysis, Sensor Data Processing, Environmental Data Analysis, Stress Level Analysis, Migraine Prediction, Data Preprocessing and Cleaning
 
 ## Introduction
 This repository hosts a Python-based project aimed at leveraging multi-modal data for personalized migraine risk assessment and attack prediction. It encompasses data preprocessing, visualization, and the implementation of advanced machine learning models, including Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) networks.
